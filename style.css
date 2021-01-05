@@ -1,0 +1,113 @@
+.texte1 {
+    color: rgba(0, 0, 0, 0.87);
+    padding: 6px 13px;
+    padding-right: 0px;
+    font-size: 13px;
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+.texte2 {
+    padding-top: 8px;
+    padding-right: 18px;
+    padding-left: 20px;
+}
+
+
+.signin {
+    background-color: #4386f8;
+    border: none;
+    border-radius: 3px;
+    color: white;
+    padding: 8px 13px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 13px;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.image {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.searchbar {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-top: 50px;
+}
+.search {
+    font-family: arial, sans-serif;
+    font-size: 13px;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    border: hidden;
+    border-radius: 2px;
+    margin-right: 10px;
+    margin-top: 20px;
+    width: 150px;
+    height: 40px;
+    opacity: 0.6;
+    transition: 0.3s;
+    background-color: #e9e9e9;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.lucky {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 13px;
+    font-weight: bold;
+    border: hidden;
+    border-radius: 2px;
+    margin-top: 20px;
+    width: 140px;
+    height: 40px;
+    opacity: 0.6;
+    transition: 0.3s;
+    line-height: 40px;
+    background-color: #e9e9e9;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.footerCountry {
+    display: flex;
+    height: 41px;
+    border: 1px solid #e4e4e4;
+    padding-left: 40px;
+    align-items: center;
+    color: rgba(0, 0, 0, .54);
+    font-size: 15px;
+}
+footer {
+    background: #f2f2f2;
+    border-top: solid 10px #e4e4e4;
+    bottom: 0;
+    position: fixed;
+    padding-bottom: 0;
+    width: 100%;
+    font-family: arial, sans-serif;
+    left: 0px;
+    font-size: 12px;
+}
+
+
+.footerLeft {
+    float: left;
+    
+}
+
+
+.footerRight {
+    float: right;
+    padding-right: 20px;
+}
+
+
